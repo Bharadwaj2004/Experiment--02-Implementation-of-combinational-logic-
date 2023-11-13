@@ -1,4 +1,4 @@
- Name: B.Venkata bharadwaj
+ Name: B.venkata bharadwaj
  Reg.No:212222240020
 
 # Experiment-02 Implementation of combinational logic
@@ -36,8 +36,8 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 ```
-Developed by:O.Sirisha Reddy
-RegisterNumber:  212222230103
+Developed by:B.venkata bharadwaj
+RegisterNumber:  212222240020
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
